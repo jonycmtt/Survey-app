@@ -4,6 +4,17 @@
 
 [https://fimro-survey-project.web.app/](https://fimro-survey-project.web.app/)
 
+## Used for :
+
+- html5
+- css3
+- Tailwindcss
+- Firebase
+- React
+- MongoDB
+- Node.js
+- Express
+
 <h3>📝 About My Project:</h3>
 This project is a survey polling website built using React, React Router, Firebase, Tanstack Query, Axios, and MongoDB, with styling done using Tailwind CSS.
 
