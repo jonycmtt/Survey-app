@@ -1,0 +1,27 @@
+[
+  {
+    "testimonial_id": 1,
+    "user_name": "Alice Johnson",
+    "testimonial_text": "Taking surveys on this platform has been a breeze. The variety of topics keeps it interesting, and the user-friendly interface makes the experience enjoyable.",
+    "user_image_url": "https://i.ibb.co/ryNRvbG/4-3.jpg"
+  },
+  {
+    "testimonial_id": 2,
+    "user_name": "Bob Smith",
+    "testimonial_text": "I love the depth of the surveys available here. From tech trends to gaming preferences, I always find something that matches my interests. Plus, the results are insightful!",
+    "user_image_url": "https://i.ibb.co/9hzNXn1/3-3.jpg"
+  },
+  {
+    "testimonial_id": 3,
+    "user_name": "Catherine Rodriguez",
+    "testimonial_text": "As a student, I appreciate the opportunity to share my perspectives on different subjects. It's a great way to voice opinions and learn from others in the community.",
+    "user_image_url": "https://i.ibb.co/Q8MkfQ2/1-8.jpg"
+  },
+
+  {
+    "testimonial_id": 5,
+    "user_name": "Eva Martinez",
+    "testimonial_text": "This platform has become a part of my daily routine. It's not just about giving opinions; I feel like I'm part of a community that values diverse perspectives. Highly recommended!",
+    "user_image_url": "https://i.ibb.co/8KsFCHz/2-5.jpg"
+  }
+]

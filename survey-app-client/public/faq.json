@@ -1,0 +1,22 @@
+[
+  {
+    "faq_id": 1,
+    "question": "How do I get started with taking surveys?",
+    "answer": "To get started, sign up for a free account. Once registered, you can explore a variety of surveys in different categories and start sharing your opinions."
+  },
+  {
+    "faq_id": 2,
+    "question": "Are my responses confidential?",
+    "answer": "Yes, your responses are confidential. We take privacy seriously and ensure that your personal information and survey responses are secure and anonymous."
+  },
+  {
+    "faq_id": 3,
+    "question": "Can I change my survey responses once submitted?",
+    "answer": "No, once you submit your survey responses, they cannot be changed. Make sure to review your answers before submitting to ensure accuracy."
+  },
+  {
+    "faq_id": 4,
+    "question": "How often are new surveys added?",
+    "answer": "New surveys are added regularly to provide you with fresh and engaging content. Check back frequently to discover new topics and opportunities to share your thoughts."
+  }
+]

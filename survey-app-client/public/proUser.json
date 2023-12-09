@@ -1,0 +1,32 @@
+[
+  {
+    "pro_user_plan": "Basic",
+    "price_per_month": 9.99,
+    "features": [
+      "Can participate in a survey ",
+      "Like or dislike a survey",
+      "Can report a survey",
+      "Can comment on a survey"
+    ]
+  },
+  {
+    "pro_user_plan": "Premium",
+    "price_per_month": 14.99,
+    "features": [
+      "Can participate in a survey ",
+      "Like or dislike a survey",
+      "Can report a survey",
+      "Can comment on a survey"
+    ]
+  },
+  {
+    "pro_user_plan": "Ultimate",
+    "price_per_month": 24.99,
+    "features": [
+      "Can participate in a survey ",
+      "Like or dislike a survey",
+      "Can report a survey",
+      "Can comment on a survey"
+    ]
+  }
+]
