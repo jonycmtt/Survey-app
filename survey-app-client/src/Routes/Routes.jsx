@@ -24,6 +24,8 @@ import PrivateRoute from "./PrivateRoute";
 import UpdatedSurvey from "../Pages/Dashboard/SurveyUser/UpdatedSurvey";
 import SurveyResponseAdmin from "../Pages/Dashboard/Admin/SurveyResponseAdmin";
 import PrivateSurveyor from "./PrivateSurveyor";
+import About from "../Pages/About";
+import Contact from "../Pages/Contact";
 
 const Routes = createBrowserRouter([
     {
@@ -66,6 +68,14 @@ const Routes = createBrowserRouter([
                 element : <SurveyReport></SurveyReport>,
                 loader : ({params}) => fetch(`https://survey-app-server-six.vercel.app/survey/${params.id}`)
             },
+            {
+                path : 'about',
+                element : <About/>
+            },
+            {
+                path : 'contact',
+                element : <Contact/>
+            }
         ]
     },
     // admin

@@ -17,7 +17,7 @@ const Banner = () => {
           <div className="flex flex-col gap-8 md:flex-row items-center">
             <div className="w-full">
               <h1 className="mb-5 text-2xl lg:text-4xl md:text-3xl  font-bold">
-                Welcome, {user? user.displayName : "Unknown"}
+                Welcome {user? user.displayName : ""}
               </h1>
               <p className="mb-5 capitalize">
                 join us in the journey of collective decision-making and

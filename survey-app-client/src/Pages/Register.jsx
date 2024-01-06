@@ -2,9 +2,9 @@ import { Link, useNavigate } from "react-router-dom";
 import useAuth from "../Components/Hooks/useAuth";
 import useAxiosPublic from "../Components/Hooks/useAxiosPublic";
 import SocailLogin from "../Components/SocailLogin/SocailLogin";
-import { Formik, useFormik } from "formik";
+import { useFormik } from "formik";
 import { signupValidation } from "./signupValidation";
-import { useEffect, useState } from "react";
+import { useEffect,  } from "react";
 const initialValues = {
   name : '',
   photoUrl : '',
