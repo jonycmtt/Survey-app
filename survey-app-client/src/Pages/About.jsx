@@ -60,7 +60,6 @@ const About = () => {
       <Testimonials></Testimonials>
       <div className="max-w-6xl mx-auto">
         <Faq></Faq>
-
       </div>
     </div>
   );

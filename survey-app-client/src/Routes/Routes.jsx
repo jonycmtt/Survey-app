@@ -25,7 +25,7 @@ import UpdatedSurvey from "../Pages/Dashboard/SurveyUser/UpdatedSurvey";
 import SurveyResponseAdmin from "../Pages/Dashboard/Admin/SurveyResponseAdmin";
 import PrivateSurveyor from "./PrivateSurveyor";
 import About from "../Pages/About";
-import Contact from "../Pages/Contact";
+import Contact from "../Pages/Contact/Contact";
 
 const Routes = createBrowserRouter([
     {
@@ -74,7 +74,7 @@ const Routes = createBrowserRouter([
             },
             {
                 path : 'contact',
-                element : <Contact/>
+                element : <Contact></Contact>
             }
         ]
     },
