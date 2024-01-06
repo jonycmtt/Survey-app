@@ -153,7 +153,7 @@ const ManageUsers = () => {
                 <td>{user.name}</td>
                 <td>{user.email}</td>
                 <td>
-                  <div className="flex flex-col xl:flex-row items-center gap-2 w-32">
+                  <div className="flex flex-col xl:flex-row items-center gap-4 w-auto">
                     
                     {user.role === "admin" ? (
                      <button

@@ -84,7 +84,7 @@ const Contact = () => {
           </div>
 
           <div>
-            <Link>
+            <Link to={'/register'}>
               <button className="btn btn-error text-white px-8">Sign Up</button>
             </Link>
           </div>
