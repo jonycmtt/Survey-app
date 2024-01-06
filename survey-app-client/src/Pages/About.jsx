@@ -1,6 +1,8 @@
 import SectionHeader from "../shared/Banner/SectionHeader";
 import { MdGeneratingTokens } from "react-icons/md";
 import { IoToday } from "react-icons/io5";
+import Testimonials from "./Testimonials/Testimonials";
+import Faq from "./Faq/Faq";
 
 const About = () => {
   return (
@@ -12,7 +14,7 @@ const About = () => {
 
       <section className="flex my-32 flex-col  md:flex-row gap-10 max-w-6xl mx-auto">
         <div className="w-full">
-          <div>
+          <div className="">
             <img
               className="w-[480px] h-[550px] object-cover rounded-lg"
               src="https://i.ibb.co/Jc1tWhs/342057481-749223916672514-7044528423957488905-n.jpg"
@@ -37,7 +39,7 @@ const About = () => {
             Nulla at volutpat diam ut venenatis tellus in metus.
           </p>
 
-          <div className="flex justify-between gap-10 my-16">
+          <div className="flex justify-between gap-10 my-12">
             <div className="w-full">
               <MdGeneratingTokens className="text-5xl mb-2" />
 
@@ -55,6 +57,11 @@ const About = () => {
           </div>
         </div>
       </section>
+      <Testimonials></Testimonials>
+      <div className="max-w-6xl mx-auto">
+        <Faq></Faq>
+
+      </div>
     </div>
   );
 };

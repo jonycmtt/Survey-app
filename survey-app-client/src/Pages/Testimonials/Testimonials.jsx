@@ -14,7 +14,7 @@ const Testimonials = () => {
   }, []);
   return (
     <div className="my-20 px-3 xl:px-0">
-      <SectionTitle title="Testimonials Section"></SectionTitle>
+      {/* <SectionTitle title="Testimonials Section"></SectionTitle> */}
       <div className="bg-slate-600 p-20 rounded-md text-white">
         <Swiper
           spaceBetween={0}
